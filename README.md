@@ -24,13 +24,13 @@ tiendas = {
     "Tienda 4": pd.read_csv(url4)
 }
 
-## 📊 Análisis Realizados
+# 📊 Análisis Realizados
 
-### Facturación por tienda
+# Facturación por tienda
 - Suma de ingresos totales por ubicación
 - Comparativa entre tiendas
 
-### Ventas por categoría  
+# Ventas por categoría  
 - Distribución porcentual de productos vendidos
 - Identificación de categorías más rentables
 
@@ -38,17 +38,17 @@ tiendas = {
 - Calificación promedio (escala 1-5)
 - Análisis de tendencias en evaluaciones
 
-### Productos destacados
+# Productos destacados
 - **Top 3**: Productos con mayor volumen de ventas
 - **Peores 3**: Productos con menor rotación
 
-### Logística  
+# Logística  
 - Costo promedio de envío por tienda
 - Relación costo-beneficio de la distribución
 
 ---
 
-## ▶️ Cómo Ejecutar
+# ▶️ Cómo Ejecutar
 
 1. **Accede al notebook**:  
    [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/TU_ENLACE)
@@ -64,7 +64,7 @@ tiendas = {
 
 ---
 
-## 📌 Resultados Clave
+# 📌 Resultados Clave
 
 | Métrica               | Tienda 1 | Tienda 2 | Tienda 3 (Recomendada) | Tienda 4 |
 |-----------------------|----------|----------|------------------------|----------|
@@ -81,7 +81,7 @@ La Tienda 3 presenta:
 
 ---
 
-## 📄 Licencia  
+# 📄 Licencia  
 MIT License - Uso académico/comercial permitido con atribución
 
 ✉️ **Contacto**: [Tu nombre] - [tu@email.com]  
