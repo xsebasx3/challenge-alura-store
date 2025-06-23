@@ -1,5 +1,5 @@
 
-# 📈 Análisis de Desempeño - Alura Store
+# 📈  Análisis de Desempeño - Alura Store
 
 ## 🎯 Propósito del Análisis
 Este proyecto tiene como objetivo identificar la tienda de menor rendimiento en la cadena Alura Store mediante:
@@ -21,10 +21,7 @@ challenge-alura-store/
 ├── README.md 
 └── LICENSE 
 
-
-## 📊 Insights Clave (Ejemplos Visuales)
-
-## 📌 Resultados Clave
+## 📌 📊 Resultados Clave
 | Métrica          | Tienda 1 | Tienda 2 | Tienda 3 (Recomendada) | Tienda 4 |
 |------------------|----------|----------|------------------------|----------|
 | **Ingresos**     | $320k    | $280k    | $150k                  | $310k    |
@@ -38,15 +35,13 @@ La Tienda 3 es la candidata ideal para vender debido a:
 - Costos logísticos elevados
 
 ## 🚀 Ejecución del Proyecto
-## 🚀 Cómo Ejecutar
 
 1. Abre el notebook en Google Colab:  
    [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Rl8deOiHvOU4a4EOAcZcAcK45X9JdE5T?hl=es-ES)
 2. Ejecuta todas las celdas en orden secuencial  
 3. Explora los gráficos y conclusiones generados automáticamente
-4. 
+
 ### Opción 2: Ejecución Local
-```bash
 git clone https://github.com/xsebasx3/challenge-alura-store.git
 cd challenge-1
 pip install -r requirements.txt  # pandas matplotlib seaborn
@@ -55,6 +50,9 @@ jupyter notebook notebooks/Analisis_Principal.ipynb
 ## 📄 Licencia  
 Este proyecto utiliza datos simulados con fines educativos y el código se distribuye bajo la licencia MIT.
 
-✉️ **Contacto**: [xsebasx3]
-🔗 **Repositorio**: [https://github.com/xsebasx3/challenge-alura-store.git]
+✉️ **Contacto**: [Tu nombre] - [tu@email.com]  
+🔗 **Repositorio**: [github.com/tusuario/alura-store-analysis]
+ 
+
+
 
