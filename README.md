@@ -46,6 +46,6 @@ Este proyecto utiliza datos simulados con fines educativos y el código se distr
 
 ## ✉️ Contacto
 
-**[xsenasx3]**
-🔗 Repositorio: [git@github.com:xsebasx3/challenge-alura-store.git]
+**[xsebasx3]**
+🔗 Repositorio: [github.com/tusuario/alura-store-analysis](https://github.com/xsebasx3/challenge-alura-store.git)
 
