@@ -50,8 +50,8 @@ jupyter notebook notebooks/Analisis_Principal.ipynb
 ## 📄 Licencia  
 Este proyecto utiliza datos simulados con fines educativos y el código se distribuye bajo la licencia MIT.
 
-✉️ **Contacto**: [Tu nombre] - [tu@email.com]  
-🔗 **Repositorio**: [github.com/tusuario/alura-store-analysis]
+✉️ **Contacto**: [xsebasx3]  
+🔗 **Repositorio**: [https://github.com/xsebasx3/challenge-alura-store.git]
  
 
 
