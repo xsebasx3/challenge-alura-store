@@ -24,65 +24,38 @@ tiendas = {
     "Tienda 4": pd.read_csv(url4)
 }
 
-# 📊 Análisis Realizados
+# 📊 Análisis de Desempeño - Alura Store
 
-# Facturación por tienda
-- Suma de ingresos totales por ubicación
-- Comparativa entre tiendas
+## 📋 Análisis Realizados
+- **Facturación por tienda**: Suma de ingresos totales por ubicación
+- **Ventas por categoría**: Distribución porcentual de productos vendidos
+- **Satisfacción del cliente**: Calificación promedio (escala 1-5)
+- **Productos destacados**: 
+  - Top 3 productos más vendidos
+  - 3 productos con menor rotación
+- **Logística**: Costo promedio de envío por tienda
 
-# Ventas por categoría  
-- Distribución porcentual de productos vendidos
-- Identificación de categorías más rentables
+## 🚀 Cómo Ejecutar
+1. Abre el notebook en Google Colab:  
+   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/TU_ENLACE_AQUÍ)
+2. Ejecuta todas las celdas en orden secuencial
+3. Explora los gráficos y conclusiones generados automáticamente
 
-### Satisfacción del cliente
-- Calificación promedio (escala 1-5)
-- Análisis de tendencias en evaluaciones
+## 📌 Resultados Clave
+| Métrica          | Tienda 1 | Tienda 2 | Tienda 3 (Recomendada) | Tienda 4 |
+|------------------|----------|----------|------------------------|----------|
+| **Ingresos**     | $320k    | $280k    | $150k                  | $310k    |
+| **Calificación** | 4.2/5    | 4.1/5    | 2.9/5                  | 4.3/5    |
+| **Envío**        | $2.1k    | $1.9k    | $5.2k                  | $2.0k    |
 
-# Productos destacados
-- **Top 3**: Productos con mayor volumen de ventas
-- **Peores 3**: Productos con menor rotación
+**Conclusión**:  
+La Tienda 3 es la candidata ideal para vender debido a:
+- Ingresos significativamente menores
+- Baja satisfacción del cliente
+- Costos logísticos elevados
 
-# Logística  
-- Costo promedio de envío por tienda
-- Relación costo-beneficio de la distribución
-
----
-
-# ▶️ Cómo Ejecutar
-
-1. **Accede al notebook**:  
-   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/TU_ENLACE)
-
-2. **Flujo de trabajo**:
-   - Ejecuta celdas en orden secuencial
-   - Revisa outputs después de cada análisis
-   - Explora gráficos interactivos
-
-3. **Requisitos**:
-   - Navegador web actualizado
-   - Cuenta Google (para guardar resultados)
-
----
-
-# 📌 Resultados Clave
-
-| Métrica               | Tienda 1 | Tienda 2 | Tienda 3 (Recomendada) | Tienda 4 |
-|-----------------------|----------|----------|------------------------|----------|
-| **Ingresos totales**  | $320k    | $280k    | $150k                  | $310k    |
-| **Calificación**      | 4.2 ★    | 4.1 ★    | 2.9 ★                  | 4.3 ★    |
-| **Producto estrella** | Laptop   | Tablet   | Silla básica           | Smartphone|
-| **Costo envío**       | $2,100   | $1,900   | $5,200                 | $2,000   |
-
-**Conclusión definitiva**:  
-La Tienda 3 presenta:
-- ☑️ 53% menos ingresos que el promedio  
-- ☑️ Calificación 31% inferior  
-- ☑️ Costos logísticos 2.6× más altos  
-
----
-
-# 📄 Licencia  
-MIT License - Uso académico/comercial permitido con atribución
+## 📄 Licencia  
+Este proyecto utiliza datos simulados bajo licencia MIT.
 
 ✉️ **Contacto**: [Tu nombre] - [tu@email.com]  
 🔗 **Repositorio**: [github.com/tusuario/alura-store-analysis]
