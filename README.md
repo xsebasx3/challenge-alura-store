@@ -24,29 +24,37 @@ challenge-alura-store/
 
 ## 📊 Insights Clave (Ejemplos Visuales)
 
-### 1. Facturación por Tienda
-![Facturación](https://via.placeholder.com/600x400/FF6B6B/FFFFFF?text=Tienda+3+con+53%+menos+ingresos)
+## 📌 Resultados Clave
+| Métrica          | Tienda 1 | Tienda 2 | Tienda 3 (Recomendada) | Tienda 4 |
+|------------------|----------|----------|------------------------|----------|
+| **Ingresos**     | $320k    | $280k    | $150k                  | $310k    |
+| **Calificación** | 4.2/5    | 4.1/5    | 2.9/5                  | 4.3/5    |
+| **Envío**        | $2.1k    | $1.9k    | $5.2k                  | $2.0k    |
 
-**Hallazgo**: La Tienda 3 genera $150k vs $300k promedio
-
-### 2. Satisfacción del Cliente
-![Calificaciones](https://via.placeholder.com/600x400/4ECDC4/FFFFFF?text=Calificación+2.9/5+en+Tienda+3)
-
-**Patrón**: 45% de quejas relacionadas con tiempos de entrega
+**Conclusión**:  
+La Tienda 3 es la candidata ideal para vender debido a:
+- Ingresos significativamente menores
+- Baja satisfacción del cliente
+- Costos logísticos elevados
 
 ## 🚀 Ejecución del Proyecto
+## 🚀 Cómo Ejecutar
 
-### Opción 1: Google Colab (Recomendada)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuusuario/repositorio/blob/main/notebooks/Analisis_Principal.ipynb)
-
-1. Haz clic en el botón superior
-2. Conéctate a un entorno de ejecución
-3. Ejecuta todas las celdas secuencialmente (Runtime → Run all)
-
+1. Abre el notebook en Google Colab:  
+   [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Rl8deOiHvOU4a4EOAcZcAcK45X9JdE5T?hl=es-ES)
+2. Ejecuta todas las celdas en orden secuencial  
+3. Explora los gráficos y conclusiones generados automáticamente
+4. 
 ### Opción 2: Ejecución Local
 ```bash
-git clone https://github.com/tuusuario/alura-store-analysis.git
-cd alura-store-analysis
+git clone https://github.com/xsebasx3/challenge-alura-store.git
+cd challenge-1
 pip install -r requirements.txt  # pandas matplotlib seaborn
 jupyter notebook notebooks/Analisis_Principal.ipynb
+
+## 📄 Licencia  
+Este proyecto utiliza datos simulados con fines educativos y el código se distribuye bajo la licencia MIT.
+
+✉️ **Contacto**: [xsebasx3]
+🔗 **Repositorio**: [https://github.com/xsebasx3/challenge-alura-store.git]
 
