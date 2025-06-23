@@ -45,6 +45,6 @@ Este proyecto utiliza datos simulados bajo licencia **MIT**.
 
 ## ✉️ Contacto
 
-**[Tu nombre]** – [tu@email.com]  
-🔗 Repositorio: [github.com/tusuario/alura-store-analysis](https://github.com/tusuario/alura-store-analysis)
+**xsebasx3**  
+🔗 Repositorio: [https://github.com/xsebasx3/challenge-alura-store.git]
 
