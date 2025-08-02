@@ -37,7 +37,8 @@ La Tienda 3 es la candidata ideal para vender debido a:
 ## 🚀 Ejecución del Proyecto
 ### Opción 1: Google Colab (Recomendada)
 1. Abre el notebook en Google Colab:  
-   [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Rl8deOiHvOU4a4EOAcZcAcK45X9JdE5T?hl=es-ES)
+   [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/?hl=es-ES 
+)
 2. Ejecuta todas las celdas en orden secuencial  
 3. Explora los gráficos y conclusiones generados automáticamente
 
